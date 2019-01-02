@@ -1,0 +1,27 @@
+Shriprasad Bhamare
+sbhamar1@binghamton.edu
+B00713668
+
+-------------------------------------------------------------------------------------
+In order to execute .ipynb code, Please use Jupyter notebook and download the datasets from the
+below links:
+Also, it needs to download Resnet-50, Inception, VGG-16 models from the internet 
+
+
+https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+
+http://vis-www.cs.umass.edu/lfw/lfw.tgz
+
+.........................................................................................
+
+I have used AWS EC2 P1.xlarge instance because the memory issue as size of the dataset 
+is in Gigabytes.
+
+..........................................................................................
+Bill for using AWS instance
+
+$115 
+
+.........................................................................................
+
+
